@@ -2,9 +2,8 @@
 // @name         Replay Recorder
 // @namespace    http://tampermonkey.net/
 // @version      2025-03-04
-// @description  try to take over the world!
-// @author       You
-// @match        https://tagpro.koalabeast.com/game?replay=Z8dWYV8A7RgSqXMMWCzr7h3JNoVZqDoZ*
+// @author       Iodized Salt
+// @match        https://tagpro.koalabeast.com/game?replay=*
 // @grant        none
 // ==/UserScript==
 const imgs = [];
